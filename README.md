@@ -1,7 +1,7 @@
 # Mahabharat-Quest Privacy Policy
 
 Effective Date: 26 January 2024
-Last Changed: 28 January 2024, 7:18 PM
+Last Changed: 3 February 2024, 1:00 PM
 
 Introduction
 We take your privacy seriously. Here we've put forth some basic information about us. If you have any doubt or you haven't understood anything you can definitely contact us through our user support email: contact@mctn.co.in
@@ -14,17 +14,19 @@ We request the users to regularly visit this page for getting the latest informa
 
 1. We respect your privacy and are committed to protecting any information that may be collected while using Mahabharat Quest. 
 
-2. Rest assured, Mahabharat Quest **does not collect** *any personal data* from its users.
+2. Rest assured, Mahabharat Quest **does not collect** *any personal data* from its users but from version 2.0.0 onwards for generating revenue for app maintenance, we have started using Google Ads in our app.
 
 4. Our sole purpose is to provide users with knowledge and insights into the epic Mahabharata.
 
 5. Your journey through the app is entirely private, and you can explore the rich narratives of Mahabharata without any concerns about data collection.
 
-6. We are fully committed to follow each and every law of the countries including the EU, but since our app is just READ ONLY we don't COLLECT ANY DATA AND INFORMATION FROM AND OF OUR USERS.
+6. We are fully committed to follow each and every law of the countries but since our app is just READ ONLY we don't COLLECT ANY DATA AND INFORMATION FROM AND OF OUR USERS except their advertisement id for Google Ads.
+7. All the ads shown in our app from version 2.0.1 onwards are suitable for children adhering to COPRA and other children suitable advertisements.
+8. We have tried our best to comply with Google Admob policies. You can contact us if you have any doubts.
 
-7. As no data is collected, NO DATA IS SOLD. Users can use the app without any concerns.
+9. NO DATA IS SOLD. Users can use the app without any concerns.
   
-8. If you have any questions regarding your privacy while using Mahabharat Quest, feel free to contact us through the app or the below email:
+10. If you have any questions regarding your privacy while using Mahabharat Quest, feel free to contact us through the app or the below email:
    contact@mctn.co.in
 
 Regards
