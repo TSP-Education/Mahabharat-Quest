@@ -14,14 +14,14 @@ We request the users to regularly visit this page for getting the latest informa
 
 1. We respect your privacy and are committed to protecting any information that may be collected while using Mahabharat Quest. 
 
-2. Rest assured, Mahabharat Quest **does not collect** *any personal data* from its users but from version 2.0.0 onwards for generating revenue for app maintenance, we have started using Google Ads in our app.
+2. Rest assured, Mahabharat Quest **does not collect** *any personal data* from its users but from version 1.2.0 onwards for generating revenue for app maintenance, we have started using Google Ads in our app.
 
 4. Our sole purpose is to provide users with knowledge and insights into the epic Mahabharata.
 
 5. Your journey through the app is entirely private, and you can explore the rich narratives of Mahabharata without any concerns about data collection.
 
 6. We are fully committed to follow each and every law of the countries but since our app is just READ ONLY we don't COLLECT ANY DATA AND INFORMATION FROM AND OF OUR USERS except their advertisement id for Google Ads.
-7. All the ads shown in our app from version 2.0.1 onwards are suitable for children adhering to COPRA and other children suitable advertisements.
+7. All the ads shown in our app from version 1.2.1 onwards are suitable for children adhering to COPRA and other children suitable advertisements.
 8. We have tried our best to comply with Google Admob policies. You can contact us if you have any doubts.
 
 9. NO DATA IS SOLD. Users can use the app without any concerns.
